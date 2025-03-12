@@ -1,0 +1,28 @@
+# MCP 资源列表
+面向中文用户整理的 MCP 资源列表， 包括教程资料， MCP 客户端 ,MCP 服服务端等.
+
+<!-- 目录由 https://github.com/pbzweihander/markdown-toc 工具生成 -->
+
+
+## 目录
+
+- [MCP 资源列表](#mcp-%E8%B5%84%E6%BA%90%E5%88%97%E8%A1%A8)
+    - [官方网站](#%E5%AE%98%E6%96%B9%E7%BD%91%E7%AB%99)
+    - [教程资料](#%E6%95%99%E7%A8%8B%E8%B5%84%E6%96%99)
+        - [SDK](#sdk)
+    - [MCP 客户端(MCP Client)](#mcp-%E5%AE%A2%E6%88%B7%E7%AB%AF(mcp-client))
+    - [MCP 服务端(MCP Server)](#mcp-%E6%9C%8D%E5%8A%A1%E7%AB%AF(mcp-server))
+
+## 官方网站
+
+- [网站](https://modelcontextprotocol.io/introduction)
+- [Github](https://github.com/modelcontextprotocol)
+
+## 教程资料
+
+### SDK
+
+
+## MCP 客户端(MCP Client)
+
+## MCP 服务端(MCP Server)
