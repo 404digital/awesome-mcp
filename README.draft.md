@@ -14,6 +14,11 @@
 
 ### SDK
 
+#### Rust
+- [rust-sdk](https://github.com/modelcontextprotocol/rust-sdk)
+- [mcprotocol-rs](https://github.com/Adiao1973/mcprotocol-rs)
+- [mcpr](https://github.com/conikeec/mcpr)
+
 
 ## MCP 客户端(MCP Client)
 

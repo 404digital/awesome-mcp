@@ -10,6 +10,7 @@
     - [官方网站](#%E5%AE%98%E6%96%B9%E7%BD%91%E7%AB%99)
     - [教程资料](#%E6%95%99%E7%A8%8B%E8%B5%84%E6%96%99)
         - [SDK](#sdk)
+            - [Rust](#rust)
     - [MCP 客户端(MCP Client)](#mcp-%E5%AE%A2%E6%88%B7%E7%AB%AF(mcp-client))
     - [MCP 服务端(MCP Server)](#mcp-%E6%9C%8D%E5%8A%A1%E7%AB%AF(mcp-server))
 
@@ -21,6 +22,11 @@
 ## 教程资料
 
 ### SDK
+
+#### Rust
+- [rust-sdk](https://github.com/modelcontextprotocol/rust-sdk)
+- [mcprotocol-rs](https://github.com/Adiao1973/mcprotocol-rs)
+- [mcpr](https://github.com/conikeec/mcpr)
 
 
 ## MCP 客户端(MCP Client)
