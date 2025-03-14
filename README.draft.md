@@ -22,4 +22,15 @@
 
 ## MCP 客户端(MCP Client)
 
+### AI 客户端
+- [Claude for Desktop](https://claude.ai/download)
+- [Cherry Studio](https://cherry-ai.com/)
+
+### 编程 IDE
+- [RooCode](https://roocode.com/)
+- [Cursor](https://www.cursor.com/)
+- [Windsurf](https://codeium.com/windsurf)
+- [Zed](https://zed.dev/)
+- [Cline](https://github.com/cline/cline)
+
 ## MCP 服务端(MCP Server)

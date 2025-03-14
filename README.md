@@ -12,6 +12,8 @@
         - [SDK](#sdk)
             - [Rust](#rust)
     - [MCP 客户端(MCP Client)](#mcp-%E5%AE%A2%E6%88%B7%E7%AB%AF(mcp-client))
+        - [AI 客户端](#ai-%E5%AE%A2%E6%88%B7%E7%AB%AF)
+        - [编程 IDE](#%E7%BC%96%E7%A8%8B-ide)
     - [MCP 服务端(MCP Server)](#mcp-%E6%9C%8D%E5%8A%A1%E7%AB%AF(mcp-server))
 
 ## 官方网站
@@ -30,5 +32,16 @@
 
 
 ## MCP 客户端(MCP Client)
+
+### AI 客户端
+- [Claude for Desktop](https://claude.ai/download)
+- [Cherry Studio](https://cherry-ai.com/)
+
+### 编程 IDE
+- [RooCode](https://roocode.com/)
+- [Cursor](https://www.cursor.com/)
+- [Windsurf](https://codeium.com/windsurf)
+- [Zed](https://zed.dev/)
+- [Cline](https://github.com/cline/cline)
 
 ## MCP 服务端(MCP Server)
