@@ -42,6 +42,7 @@
 - [Cherry Studio](https://cherry-ai.com/): 🍒 Cherry Studio 是一款支持多个大语言模型（LLM）服务商的桌面客户端，兼容 Windows、Mac 和 Linux 系统。
 - [5ire](https://github.com/nanbingxyz/5ire): 5ire 是一款跨平台的桌面人工智能助手、MCP 客户端。它与主要服务提供商兼容，通过模型上下文协议服务器支持本地知识库和工具。
 - [Chatbox](https://github.com/Bin-Huang/chatbox/): Chatbox 是一个 AI 模型桌面客户端，支持 ChatGPT、Claude、Google Gemini、Ollama 等主流模型，适用于 Windows、Mac、Linux、Web、Android 和 iOS 全平台
+- [chatmcp](https://github.com/daodao97/chatmcp): 跨平台 MacOS | Windows | Linux | iOS | Android AI 聊天客户端, 使用 `flutter` 技术栈开发
 
 
 ### 编程 IDE
