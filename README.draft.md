@@ -15,8 +15,9 @@
 ### SDK
 
 #### Rust
-- [rust-sdk](https://github.com/modelcontextprotocol/rust-sdk)
-- [mcprotocol-rs](https://github.com/Adiao1973/mcprotocol-rs)
+- [rust-sdk](https://github.com/modelcontextprotocol/rust-sdk): 官方 rust sdk
+- [rmcp](https://github.com/4t145/rmcp): 第三方改进的官方 rust sdk
+- [mcprotocol-rs](https://github.com/Adiao1973/mcprotocol-rs): 国人产品
 - [mcpr](https://github.com/conikeec/mcpr)
 
 
@@ -38,7 +39,6 @@
 ### 编程开发
 - [jvm-mcp-server](https://github.com/xzq-xu/jvm-mcp-server) : 基于Arthas的JVM监控MCP服务器实现，提供了一个给ai监控和分析Java进程的mcp。
 - [mcp-dbutils](https://github.com/donghao1393/mcp-dbutils): MCP Database Utilities 是一个多功能的 MCP 服务，它使您的 AI 能够通过统一的连接配置安全地访问各种类型的数据库（SQLite、MySQL、PostgreSQL 等）进行数据分析。
-
 
 
 ### 物联网
