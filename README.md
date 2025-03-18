@@ -17,6 +17,7 @@
     - [MCP 服务端(MCP Server)](#mcp-%E6%9C%8D%E5%8A%A1%E7%AB%AF(mcp-server))
         - [编程开发](#%E7%BC%96%E7%A8%8B%E5%BC%80%E5%8F%91)
         - [物联网](#%E7%89%A9%E8%81%94%E7%BD%91)
+    - [其他项目](#%E5%85%B6%E4%BB%96%E9%A1%B9%E7%9B%AE)
 
 ## 官方网站
 
@@ -43,8 +44,6 @@
 - [Chatbox](https://github.com/Bin-Huang/chatbox/): Chatbox 是一个 AI 模型桌面客户端，支持 ChatGPT、Claude、Google Gemini、Ollama 等主流模型，适用于 Windows、Mac、Linux、Web、Android 和 iOS 全平台
 
 
-
-
 ### 编程 IDE
 - [RooCode](https://roocode.com/)
 - [Cursor](https://www.cursor.com/)
@@ -61,4 +60,7 @@
 
 ### 物联网
 - [ThingsPanel MCP](https://github.com/ThingsPanel/thingspanel-mcp): 通过使用这个MCP服务器，AI助手可以以安全、受控的方式直接与您的物联网设备和数据交互，从而实现强大的应用场景，如自然语言设备控制、数据可视化请求、异常检测以及基于设备数据的智能自动化。
+
+## 其他项目
+- [mcp-badges](https://github.com/mcpx-dev/mcp-badges): MCPX 徽章系统。
 
