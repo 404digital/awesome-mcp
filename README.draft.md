@@ -44,10 +44,18 @@
 - [jvm-mcp-server](https://github.com/xzq-xu/jvm-mcp-server) : 基于Arthas的JVM监控MCP服务器实现，提供了一个给ai监控和分析Java进程的mcp。
 - [mcp-dbutils](https://github.com/donghao1393/mcp-dbutils): MCP Database Utilities 是一个多功能的 MCP 服务，它使您的 AI 能够通过统一的连接配置安全地访问各种类型的数据库（SQLite、MySQL、PostgreSQL 等）进行数据分析。
 
+### 游戏
+- [minesweeper-mcp-server](https://github.com/tonypan2/minesweeper-mcp-server): 扫雷 MCP
+
+### 设计
+- [blender-mcp](https://github.com/ahujasid/blender-mcp): BlenderMCP通过模型上下文协议（MCP）将Blender连接到Claude AI，从而使Claude可以直接与Clote互动并控制搅拌器。此集成使迅速的辅助3D建模，场景创建和操纵。
+
 
 ### 物联网
 - [ThingsPanel MCP](https://github.com/ThingsPanel/thingspanel-mcp): 通过使用这个MCP服务器，AI助手可以以安全、受控的方式直接与您的物联网设备和数据交互，从而实现强大的应用场景，如自然语言设备控制、数据可视化请求、异常检测以及基于设备数据的智能自动化。
 
 ## 其他项目
 - [mcp-badges](https://github.com/mcpx-dev/mcp-badges): MCPX 徽章系统。
+- [mcp-trends-hub](https://github.com/baranwang/mcp-trends-hub):基于 Model Context Protocol (MCP) 协议的全网热点趋势一站式聚合服务
+
 
