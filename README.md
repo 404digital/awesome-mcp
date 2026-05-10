@@ -89,6 +89,7 @@
 
 ### 物联网
 - [ThingsPanel MCP](https://github.com/ThingsPanel/thingspanel-mcp): 通过使用这个MCP服务器，AI助手可以以安全、受控的方式直接与您的物联网设备和数据交互，从而实现强大的应用场景，如自然语言设备控制、数据可视化请求、异常检测以及基于设备数据的智能自动化。
+- [NotFair](https://notfair.co) - Google Ads MCP server. Connect Claude and AI agents to a Google Ads account: diagnose campaign performance, recommend optimizations, and execute approved changes via the Google Ads API. Source: github.com/nowork-studio/toprank. Free tier available.
 
 ## 其他项目
 - [mcp-badges](https://github.com/mcpx-dev/mcp-badges): MCPX 徽章系统。
