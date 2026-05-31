@@ -20,6 +20,7 @@
         - [AI 客户端](#ai-%E5%AE%A2%E6%88%B7%E7%AB%AF)
         - [编程 IDE](#%E7%BC%96%E7%A8%8B-ide)
     - [MCP 服务端(MCP Server)](#mcp-%E6%9C%8D%E5%8A%A1%E7%AB%AF(mcp-server))
+        - [数据与搜索](#%E6%95%B0%E6%8D%AE%E4%B8%8E%E6%90%9C%E7%B4%A2)
         - [编程开发](#%E7%BC%96%E7%A8%8B%E5%BC%80%E5%8F%91)
         - [游戏](#%E6%B8%B8%E6%88%8F)
         - [设计](#%E8%AE%BE%E8%AE%A1)
@@ -76,6 +77,9 @@
 
 ## MCP 服务端(MCP Server)
 
+### 数据与搜索
+- [UnifAPI MCP Server](https://github.com/unifapi-agent/unifapi-mcp-server): 托管式公共数据 MCP 服务，覆盖社交、搜索、网页抓取、新闻、创作者研究与 KOL 定价工作流，远程端点为 `https://mcp.unifapi.com`。
+
 ### 编程开发
 - [jvm-mcp-server](https://github.com/xzq-xu/jvm-mcp-server) : 基于Arthas的JVM监控MCP服务器实现，提供了一个给ai监控和分析Java进程的mcp。
 - [mcp-dbutils](https://github.com/donghao1393/mcp-dbutils): MCP Database Utilities 是一个多功能的 MCP 服务，它使您的 AI 能够通过统一的连接配置安全地访问各种类型的数据库（SQLite、MySQL、PostgreSQL 等）进行数据分析。
@@ -93,5 +97,4 @@
 ## 其他项目
 - [mcp-badges](https://github.com/mcpx-dev/mcp-badges): MCPX 徽章系统。
 - [mcp-trends-hub](https://github.com/baranwang/mcp-trends-hub):基于 Model Context Protocol (MCP) 协议的全网热点趋势一站式聚合服务
-
 

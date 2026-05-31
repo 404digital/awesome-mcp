@@ -55,6 +55,9 @@
 
 ## MCP 服务端(MCP Server)
 
+### 数据与搜索
+- [UnifAPI MCP Server](https://github.com/unifapi-agent/unifapi-mcp-server): 托管式公共数据 MCP 服务，覆盖社交、搜索、网页抓取、新闻、创作者研究与 KOL 定价工作流，远程端点为 `https://mcp.unifapi.com`。
+
 ### 编程开发
 - [jvm-mcp-server](https://github.com/xzq-xu/jvm-mcp-server) : 基于Arthas的JVM监控MCP服务器实现，提供了一个给ai监控和分析Java进程的mcp。
 - [mcp-dbutils](https://github.com/donghao1393/mcp-dbutils): MCP Database Utilities 是一个多功能的 MCP 服务，它使您的 AI 能够通过统一的连接配置安全地访问各种类型的数据库（SQLite、MySQL、PostgreSQL 等）进行数据分析。
@@ -72,5 +75,4 @@
 ## 其他项目
 - [mcp-badges](https://github.com/mcpx-dev/mcp-badges): MCPX 徽章系统。
 - [mcp-trends-hub](https://github.com/baranwang/mcp-trends-hub):基于 Model Context Protocol (MCP) 协议的全网热点趋势一站式聚合服务
-
 
