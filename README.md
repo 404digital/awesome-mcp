@@ -85,6 +85,8 @@
 
 ### 设计
 - [blender-mcp](https://github.com/ahujasid/blender-mcp): BlenderMCP通过模型上下文协议（MCP）将Blender连接到Claude AI，从而使Claude可以直接与Clote互动并控制搅拌器。此集成使迅速的辅助3D建模，场景创建和操纵。
+- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio): MIT 许可、本地优先的 TypeScript CLI 与 MCP 视频工具集，支持通过可编辑的 plan.json 时间线编排、剪辑、生成和组装视频。
+
 
 
 ### 物联网
