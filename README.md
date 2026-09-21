@@ -91,6 +91,7 @@
 - [ThingsPanel MCP](https://github.com/ThingsPanel/thingspanel-mcp): 通过使用这个MCP服务器，AI助手可以以安全、受控的方式直接与您的物联网设备和数据交互，从而实现强大的应用场景，如自然语言设备控制、数据可视化请求、异常检测以及基于设备数据的智能自动化。
 
 ## 其他项目
+- [Statsnet](https://github.com/usenetstate/statsnet-mcp) - Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp` · Registry: `io.github.usenetstate/statsnet`
 - [mcp-badges](https://github.com/mcpx-dev/mcp-badges): MCPX 徽章系统。
 - [mcp-trends-hub](https://github.com/baranwang/mcp-trends-hub):基于 Model Context Protocol (MCP) 协议的全网热点趋势一站式聚合服务
 
