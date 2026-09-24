@@ -77,6 +77,7 @@
 ## MCP 服务端(MCP Server)
 
 ### 编程开发
+- [API.market MCP Gateway](https://api.market/api/mcp/gateway): 面向 AI 智能体的托管 MCP 网关，使用 Streamable HTTP，支持 OAuth（推荐）和 API 密钥认证；五个工具覆盖 API 发现、操作模式查询、调用、用量查询及订阅管理。服务端为专有托管服务，各 API 的免费额度和付费方案不同。
 - [jvm-mcp-server](https://github.com/xzq-xu/jvm-mcp-server) : 基于Arthas的JVM监控MCP服务器实现，提供了一个给ai监控和分析Java进程的mcp。
 - [mcp-dbutils](https://github.com/donghao1393/mcp-dbutils): MCP Database Utilities 是一个多功能的 MCP 服务，它使您的 AI 能够通过统一的连接配置安全地访问各种类型的数据库（SQLite、MySQL、PostgreSQL 等）进行数据分析。
 
