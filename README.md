@@ -77,6 +77,7 @@
 ## MCP 服务端(MCP Server)
 
 ### 编程开发
+- [agent-qa](https://www.vostride.com): 支持 Web、Android 和 iOS 测试的本地 MCP 服务，可查询执行证据与持久记忆，并复用经过验证的经验改进后续测试。
 - [jvm-mcp-server](https://github.com/xzq-xu/jvm-mcp-server) : 基于Arthas的JVM监控MCP服务器实现，提供了一个给ai监控和分析Java进程的mcp。
 - [mcp-dbutils](https://github.com/donghao1393/mcp-dbutils): MCP Database Utilities 是一个多功能的 MCP 服务，它使您的 AI 能够通过统一的连接配置安全地访问各种类型的数据库（SQLite、MySQL、PostgreSQL 等）进行数据分析。
 
