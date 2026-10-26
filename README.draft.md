@@ -69,6 +69,9 @@
 ### 物联网
 - [ThingsPanel MCP](https://github.com/ThingsPanel/thingspanel-mcp): 通过使用这个MCP服务器，AI助手可以以安全、受控的方式直接与您的物联网设备和数据交互，从而实现强大的应用场景，如自然语言设备控制、数据可视化请求、异常检测以及基于设备数据的智能自动化。
 
+### 支付工具
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node): 本地 stdio MCP 支付运行时，用于检查 x402 报价、准备有界支付及查询状态和收据；仅支持 Apple Silicon macOS 和 Node 24。
+
 ## 其他项目
 - [mcp-badges](https://github.com/mcpx-dev/mcp-badges): MCPX 徽章系统。
 - [mcp-trends-hub](https://github.com/baranwang/mcp-trends-hub):基于 Model Context Protocol (MCP) 协议的全网热点趋势一站式聚合服务
