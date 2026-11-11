@@ -76,6 +76,8 @@
 
 ## MCP 服务端(MCP Server)
 
+- [FlashData Google 搜索与 YouTube 数据 MCP](https://github.com/rocosen/flashdata-mcp)：Google 搜索、新闻、图片、购物、视频和地点，以及 YouTube 搜索、metadata、已有字幕、频道、搜索建议和下载等十五项能力；需 API Key 和付费 Credits。[接入文档](https://flashdata.dev/mcp)。
+
 ### 编程开发
 - [jvm-mcp-server](https://github.com/xzq-xu/jvm-mcp-server) : 基于Arthas的JVM监控MCP服务器实现，提供了一个给ai监控和分析Java进程的mcp。
 - [mcp-dbutils](https://github.com/donghao1393/mcp-dbutils): MCP Database Utilities 是一个多功能的 MCP 服务，它使您的 AI 能够通过统一的连接配置安全地访问各种类型的数据库（SQLite、MySQL、PostgreSQL 等）进行数据分析。
