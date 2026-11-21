@@ -44,6 +44,7 @@
 #### Typescript
 - [typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk): 官方 typescript sdk
 - [fastmcp](https://github.com/punkpeye/fastmcp):用于构建能够处理客户端会话的MCP服务器的 Typescript 框架。
+- [xmcp](https://github.com/basementstudio/xmcp): 用于构建 MCP 服务器的 TypeScript 框架，支持基于文件的工具、资源和提示词发现，以及 HTTP 和 STDIO 传输。
 
 #### Python
 - [python-sdk](https://github.com/modelcontextprotocol/python-sdk): 官方 python sdk
