@@ -76,7 +76,7 @@
 
 ## MCP 服务端(MCP Server)
 
-- [FlashData Google 搜索与 YouTube 数据 MCP](https://github.com/rocosen/flashdata-mcp)：Google 搜索、新闻、图片、购物、视频和地点，以及 YouTube 搜索、metadata、已有字幕、频道、搜索建议和下载等十五项能力；需 API Key 和付费 Credits。[接入文档](https://flashdata.dev/mcp)。
+- [FlashData Google 搜索与 YouTube 数据 MCP](https://github.com/flashdatadev/flashdata-mcp)：Google 搜索、新闻、图片、购物、视频和地点，以及 YouTube 搜索、元数据、已有字幕、频道、搜索建议和下载等十五项能力；远程托管 MCP 地址 `https://data.flashdata.dev/mcp`，按量付费无月费（Google 搜索 $1.00/千次、YouTube 数据 $0.50/千次、下载 $0.10/GB），免绑卡即可免费试用。[接入文档](https://flashdata.dev/mcp)。
 
 ### 编程开发
 - [jvm-mcp-server](https://github.com/xzq-xu/jvm-mcp-server) : 基于Arthas的JVM监控MCP服务器实现，提供了一个给ai监控和分析Java进程的mcp。
